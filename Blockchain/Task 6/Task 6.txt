@@ -1,0 +1,16 @@
+Time: 9:30 - 6:40
+
+Activities Performed: 
+	Indepth Anlaysis On:
+		Blockchain developer responsibilities
+		Types of blockchain developer[Core Blockchain Developer -> Architecture, Blockchain software Developer -> Application Development]
+		Basic skills to have that will help become blockchain developer[Programming, Open Source, Cryptography, DS, Algorithms, Software development 		techniques]
+		Technical skills required for blockchain development[Web Dev, Cryptography, Blockchain architecture, Smart Contract Development, DS]
+		Blockchain architecture[Cryptographic hash functions, consensus, distributed ledge technology]
+		Datastructures related to blockchain[Merkel tree, petrecia Trees]
+		Cryptography[SHA256, AES256, KECCAK256]
+		Smart Contract Development[Buisness Logic, Hyperledger vs Ethereum Smart Contracts, Fabric, Fabric2.0]
+		Web Development
+	Explored communities in Pakistan related to blockchain
+	Different use case of blockchain outside the paradigm of finances
+	Watched all the videos related to blockchain and researched thoroughly via google

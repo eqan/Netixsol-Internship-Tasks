@@ -1,0 +1,3 @@
+ERC20 standard
+Mintabel and burnable
+Ownable

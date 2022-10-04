@@ -1,0 +1,28 @@
+.nav {
+    height: 50px;
+    padding: 10px;
+    background: #000;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+li {
+list-style-type: none;
+padding: 3rem;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:active {
+  color: red;
+}
+
+.div {
+display: flex;
+color: white;
+}

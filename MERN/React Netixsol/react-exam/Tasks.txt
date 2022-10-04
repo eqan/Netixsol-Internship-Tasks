@@ -1,0 +1,41 @@
+1. Make an input field and make the component to re render every time value of input field gets change.  
+
+Each time components re renders count it and show it right below the input field. 
+
+1. Make a todo list. 
+
+Use useReducer to manage the state.
+
+Create a child component as todo Item.
+
+User can create, edit, delete the todo’s
+
+each todo item will have a check box. by clicking on checkbox it will add a line through the task. denoting as task is completed.
+
+1. Create a layout with header and footer. 
+
+Header will have a text logo on the left and on the right will have links to few pages. 
+
+Links will be Home, About, Profile
+
+Make Routes for all these pages. Every page will have same header and footer. 
+
+When any link gets active change its color to red.
+
+footer will have a text stating I am a developer.
+
+1. We have a dog api. 
+
+[https://dog.ceo/api/breeds/image/random](https://dog.ceo/api/breeds/image/random)
+
+When we request to this api it gives us a random image. 
+
+We are going to make a small dogs tinder. 
+
+On page load get an Image and show on the page. 
+
+Make two button on the bottom. One named “ left” and other named “right’.
+
+On left click save the image url in left swiped array. and on right click save it in right swiped array. and Change the image by re fetching the image.
+
+Also make a button named result on the last. and Whenever user click on result it will show all the left swiped and right swiped images. left swiped images with heading of left images and right swiped image with heading of right images

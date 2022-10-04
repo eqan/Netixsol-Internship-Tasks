@@ -1,0 +1,20 @@
+Time Duration: 9:30 - 7
+
+Activities Performed:
+	Revision of yesterday topics[Redeemed Loop Holes]
+	Indepth analysis on
+	 POW[Centralization in POW,51% Attack]
+	 POS[Validators Fradulent Approval Consequences, why Less frauds on on POS than POW]
+	 Bitcoin characteristics
+	 Cipher Formation[Secret + Key] ---- ECDSA ---> Cipher[Encrypted Message]
+	 Crypotgraphic Hash Functions
+	 Transaction Implications
+	 Block chain forks [Soft and Hard]
+	 Usage of Merkel Tree[Sum of all transactions -> Digital Footprint of entire set of operations]
+
+	Asked Questions on numeorus topics
+	Research on Ownable function of Open Zepplin library
+
+Q 
+Tokenization of real estate -> If shares are tokenized then how??
+Adding a block requires us to go from starting node to the end node and then inserting the new block, similar to the concept of linkedList the question is doesnt it requires us to traverse millions of blocks just to add new information to the ledger? Isnt this a slow cumbersome process? Has the concept of blockchain evolved enough to resolve this issue?

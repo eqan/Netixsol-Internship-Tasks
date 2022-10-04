@@ -1,0 +1,17 @@
+.div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(0,0,0,0.5);
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,31 @@
+Todays Report
+
+Time Duration at the office: 10AM - 7PM
+
+Concepts Taken:
+	What is blockchain
+	Core Principles of blockchain
+	Types Of Assets
+	How blockchain has embedded and improved previous concepts such as ledger, cryptography etc
+	Hyperledger vs blockchain 2.0
+	Characteristics of Crypto Currencies
+	Types of network distributions: Centralization, distribution and decentralization
+	Benefits of blockcahin
+	Tokenization
+	Fungible and non-fungible tokes
+	Difference between ownership of token and transfer of token
+	Drawbacks of blockchain
+	Why database is still important
+	Types of blockchain
+	The consensus mechanism algorithms: such as POW(Bitcoin), POS(Ethereum), POC, POA, POH, POT
+	Why these consensus mechanisms are important
+	Difference between encryption and Hashing
+	Difference between node[Physcial entity] and block[Virtual entity]
+	Double spending and how consensus techniques prevent it or how it is nearly impossible to affect big block chains like bitcoin and ethereum
+	Merkel tree(Also implemented in python during stacks cohort)
+	Why use smart contracts?
+
+Asked question from You and fellow seniors as well for guidance
+Self-research on the things you mentioned during the lecture videos from geeksforgeeks and Icommunity to for deeper understanding and research
+
+Will complete the rest of the fundamentals tonight and looking forward towards your review on this :)
